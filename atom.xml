@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Zluowa.github.io/</id>
     <title>铁锅炖月亮</title>
-    <updated>2021-06-05T08:42:00.043Z</updated>
+    <updated>2021-06-05T08:44:53.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Zluowa.github.io/"/>
     <link rel="self" href="https://Zluowa.github.io/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://Zluowa.github.io/images/avatar.png</logo>
     <icon>https://Zluowa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 铁锅炖月亮</rights>
+    <entry>
+        <title type="html"><![CDATA[《这一世是只苍蝇》]]></title>
+        <id>https://Zluowa.github.io/post/lesslesszhe-yi-shi-shi-zhi-cang-ying-greatergreater/</id>
+        <link href="https://Zluowa.github.io/post/lesslesszhe-yi-shi-shi-zhi-cang-ying-greatergreater/">
+        </link>
+        <updated>2021-06-05T08:42:44.000Z</updated>
+        <content type="html"><![CDATA[<p>黑漆漆的小屋子里<br>
+一只无心的苍蝇<br>
+飞呀飞<br>
+怪物的眼挣得很大<br>
+苍蝇好奇的盯着这一切<br>
+大眼与小眼就这么的对视着<br>
+兴许是想要记住对方的样子吧<br>
+我投胎做了一只苍蝇<br>
+身上背着的是梦与烦恼<br>
+终究还是碰了壁<br>
+那好奇心就像疾病跟着我来到了这一世<br>
+前面有一座山<br>
+怎么也绕不过去<br>
+飞呀飞</p>
+<p>我听见老人说<br>
+放过自己吧<br>
+就可以跨过去了<br>
+即便转世做了一只苍蝇<br>
+只会原地打转<br>
+但你知道的<br>
+我将坚定不移的<br>
+跨越那道墙，撞碎他<br>
+纵然粉身碎骨<br>
+一世又一世的轮回<br>
+我们也终将遇见</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[未命名]]></title>
         <id>https://Zluowa.github.io/post/wei-ming-ming/</id>
@@ -214,29 +247,6 @@
 <p>我照着他们说的做了</p>
 <p>兴许时间迷上了我的身体</p>
 <p>在这浴室里站成永恒</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《浮萍》]]></title>
-        <id>https://Zluowa.github.io/post/lesslessfu-ping-greatergreater/</id>
-        <link href="https://Zluowa.github.io/post/lesslessfu-ping-greatergreater/">
-        </link>
-        <updated>2021-06-01T04:24:06.000Z</updated>
-        <content type="html"><![CDATA[<p>她是一株浮萍<br>
-就这么的赤裸着来到这个世界<br>
-踮着脚尖，吮着露珠<br>
-银铃的笑声响彻原野中<br>
-她生来是自由的<br>
-一双玉足就这么的踩在了泥地里<br>
-她是博爱的<br>
-一双手捧起了那些陂足具下的泥沙</p>
-<p>那天午后，我路过郊外的时候<br>
-摘了一株浮萍，握在手心<br>
-她的体香沁入心脾<br>
-她的影子在脑海中起舞<br>
-风儿抚摸着你我的脸颊<br>
-你我的指尖<br>
-在云里相触</p>
 ]]></content>
     </entry>
 </feed>
