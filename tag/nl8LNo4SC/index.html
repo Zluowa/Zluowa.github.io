@@ -17,6 +17,7 @@
 </head>
 <body>
   <div class="antialiased flex flex-col min-h-screen" id="app">
+
     <div class="nav py-3 md:py-8 fixed w-full z-10 bg-gray-50 dark:bg-gray-700 transition-all duration-300" :class="{ 'scroll': scrolled }">
   <div class="flex justify-end px-4">
     <div class="w-8 h-8 flex justify-center items-center rounded-full md:hidden" @click="showMenu = !showMenu">
@@ -47,41 +48,43 @@
     </a>
   </nav>
 </div>
+
     <div class="max-w-4xl w-full mx-auto pt-32">
-      <div class="py-8 shadow-box bg-white dark:bg-gray-600 border-gray-300 rounded-none md:rounded-lg -mx-1 md:mx-0 md:px-0">
+      <h1 class="text-2xl font-bold pb-8 flex justify-center items-center">
+        <i class="ri-hashtag"></i>
+        杂记
+      </h1>
+      <div class="shadow-box bg-white dark:bg-gray-600 border-gray-300 rounded-none md:rounded-lg -mx-1 md:mx-0 md:px-0">
         
-          <div class="px-8 pb-5 inline-flex relative overflow-hidden">
-            <a href="https://Zluowa.github.io /tag/nl8LNo4SC/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-              <i class="ri-hashtag"></i>
-              杂记（1）
-            </a>
-          </div>
-        
-          <div class="px-8 pb-5 inline-flex relative overflow-hidden">
-            <a href="https://Zluowa.github.io /tag/aRdI6k42r/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-              <i class="ri-hashtag"></i>
-              透明（4）
-            </a>
-          </div>
-        
-          <div class="px-8 pb-5 inline-flex relative overflow-hidden">
-            <a href="https://Zluowa.github.io /tag/lMKCUE9DO/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-              <i class="ri-hashtag"></i>
-              诗歌（4）
-            </a>
-          </div>
-        
-          <div class="px-8 pb-5 inline-flex relative overflow-hidden">
-            <a href="https://Zluowa.github.io /tag/3VNUSLDZW/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-              <i class="ri-hashtag"></i>
-              深蓝色（3）
-            </a>
-          </div>
-        
+  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+    
+    <div class="flex-1 order-2 md:order-1">
+      <h2 class="text-2xl font-semibold mb-4">
+        <a href="https://Zluowa.github.io /post/lesslesscheng-shi-de-jin-tou-greatergreater/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+          《城市的尽头》
+        </a>
+      </h2>
+      <div class="mb-4 text-xs text-gray-500">2021-12-20</div>
+      <div class="mb-4 text-gray-500 dark:text-gray-300">
+        《城市的尽头》
+今天是一只东奔西走的蚂蚁，瞪着眼睛，干巴巴的望着这个城市。有人在给大地缝制新衣，尽管扬起的尘土看上去尽显慵懒，一副生人勿近的模样。但对于仁爱的太阳来说，他可不希望大家伙对彼此有了偏见，于是他更加地卖力了，让那圣洁的光触及你我...
       </div>
+      <a href="https://Zluowa.github.io /post/lesslesscheng-shi-de-jin-tou-greatergreater/" class="btn">
+        不要点我
+      </a>
+    </div>
+    
+      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://Zluowa.github.io /post-images/lesslesscheng-shi-de-jin-tou-greatergreater.jpg" alt="《城市的尽头》">
+    
+  </div>
+  
+      </div>
+
+      
       <footer class="py-12 text-center px-4 md:px-0" v-pre>
   Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
 </footer>
+
     </div>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
